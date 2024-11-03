@@ -24,5 +24,3 @@ jobs:
         with:
           name: build-artifact
           path: ./output
-
-      #incluir tasks de container
